@@ -4,6 +4,7 @@
 // If you're unfamiliar with how Cypress works,
 // check out the link below and learn how to write your first test:
 // https://on.cypress.io/writing-first-test
+//hugf
 describe('Login', () => {
     it('Visit Login page', () => {
         cy.visit('http://jip.polinema.ac.id/ojs3/index.php/jip/login')
